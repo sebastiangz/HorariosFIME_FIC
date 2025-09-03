@@ -56,7 +56,7 @@ python genera_listas_FIC_fet.py --help
 ```bash
 python genera_listas_FIC_fet.py
 ```
-[![Ejemplo uso]([https://github.com/sebastiangz/HorariosFIME_FIC/_info/uso.jpg](https://github.com/sebastiangz/HorariosFIME_FIC/_info/uso.jpg)]]
+https://raw.githubusercontent.com/sebastiangz/HorariosFIME_FIC/main/_info/uso.jpg
 
 El programa solicitará interactivamente:
 1. Ruta del archivo XML de FET
