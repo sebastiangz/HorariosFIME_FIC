@@ -1,0 +1,808 @@
+RESUMEN DE HORARIOS POR PROFESOR
+Generado: 02/09/2025 12:24
+================================================================================
+
+PROFESOR: ALEJANDREZ PALACIOS JOSE GUADALUPE
+No. TRABAJADOR: 501121
+TOTAL DE BLOQUES DE CLASE: 11
+------------------------------------------------------------
+Lunes        11:30 - 13:30        1B       FÍSICA I                            AULA 01
+Lunes        13:30 - 15:30        5C       HIDRÁULICA DE TUBERÍAS              AULA 12
+Miércoles    09:00 - 10:00        3D       ESTADÍSTICA INFERENCIAL             AULA 03
+Miércoles    10:30 - 11:30        3D       ESTADÍSTICA INFERENCIAL             AULA 03
+Miércoles    11:30 - 12:30        5C       HIDRÁULICA DE TUBERÍAS              AULA 12
+Jueves       09:00 - 10:00        3D       ESTADÍSTICA INFERENCIAL             AULA 03
+Jueves       10:30 - 11:30        3A       ESTADÍSTICA INFERENCIAL             AULA 14
+Jueves       11:30 - 13:30        1B       FÍSICA I                            AULA 01
+Jueves       13:30 - 15:30        5C       HIDRÁULICA DE TUBERÍAS              AULA 12
+Viernes      10:30 - 11:30        1B       FÍSICA I                            AULA 01
+Viernes      11:30 - 13:30        3A       ESTADÍSTICA INFERENCIAL             AULA 14
+
+============================================================
+
+PROFESOR: ARAMBULA MENDOZA RAUL
+No. TRABAJADOR: 7099
+TOTAL DE BLOQUES DE CLASE: 3
+------------------------------------------------------------
+Lunes        10:30 - 12:30        5D       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 11
+Martes       11:30 - 12:30        5D       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 11
+Jueves       10:30 - 12:30        5D       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 11
+
+============================================================
+
+PROFESOR: BARRON QUINTANA JULIAN
+No. TRABAJADOR: 6068
+TOTAL DE BLOQUES DE CLASE: 17
+------------------------------------------------------------
+Lunes        13:30 - 14:30        3E       CARTOGRAFÍA DIGITAL                 CENTRO DE CÓMPUTO GEOMÁTICA
+Lunes        17:00 - 18:00        5B       FOTOGRAMETRÍA DIGITAL               AULA 05
+Lunes        18:00 - 20:00        5E       FOTOGRAMETRÍA DIGITAL               AULA 08
+Martes       12:30 - 13:30        3E       CARTOGRAFÍA DIGITAL                 CENTRO DE CÓMPUTO GEOMÁTICA
+Martes       13:30 - 14:30        5E       FOTOGRAMETRÍA DIGITAL               AULA 08
+Martes       14:30 - 15:30        7E       OPTATIVA I DE GEOMÁTICA - Evaluación y monitoreo de recursos naturales AULA 09
+Martes       16:00 - 17:00        7E       OPTATIVA I DE GEOMÁTICA - Evaluación y monitoreo de recursos naturales AULA 09
+Martes       17:00 - 19:00        5B       FOTOGRAMETRÍA DIGITAL               AULA 05
+Miércoles    17:00 - 19:00        5E       FOTOGRAMETRÍA DIGITAL               AULA 08
+Miércoles    19:00 - 20:00        5B       FOTOGRAMETRÍA DIGITAL               AULA 05
+Jueves       14:30 - 15:30        7E       OPTATIVA I DE GEOMÁTICA - Evaluación y monitoreo de recursos naturales AULA 09
+Jueves       16:00 - 18:00        5B       FOTOGRAMETRÍA DIGITAL               AULA 05
+Jueves       19:00 - 20:00        7B       PROYECTO INTEGRADOR VI              AULA 14
+Viernes      12:30 - 14:30        3E       CARTOGRAFÍA DIGITAL                 CENTRO DE CÓMPUTO B
+Viernes      14:30 - 15:30        5E       FOTOGRAMETRÍA DIGITAL               AULA 08
+Viernes      16:00 - 18:00        7E       OPTATIVA I DE GEOMÁTICA - Evaluación y monitoreo de recursos naturales AULA 09
+Viernes      18:00 - 19:00        7B       PROYECTO INTEGRADOR VI              AULA 14
+
+============================================================
+
+PROFESOR: CABRERA SANDOVAL MARIO FILOMENO
+No. TRABAJADOR: 7467
+TOTAL DE BLOQUES DE CLASE: 5
+------------------------------------------------------------
+Lunes        11:30 - 13:30        5A       HIDRÁULICA DE TUBERÍAS              AULA 10
+Lunes        14:30 - 15:30        9A       OPTATIVA DE ESTRUCTURAS I - Diseño Eólico de Estructuras AULA 06
+Miércoles    10:30 - 11:30        5A       HIDRÁULICA DE TUBERÍAS              AULA 10
+Miércoles    13:30 - 15:30        9A       OPTATIVA DE ESTRUCTURAS I - Diseño Eólico de Estructuras AULA 06
+Jueves       10:30 - 12:30        5A       HIDRÁULICA DE TUBERÍAS              AULA 10
+
+============================================================
+
+PROFESOR: CAMACHO DE LA CRUZ ARLETTE ANDREA
+No. TRABAJADOR: 401031
+TOTAL DE BLOQUES DE CLASE: 3
+------------------------------------------------------------
+Martes       09:00 - 10:00        5C       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 12
+Martes       10:30 - 11:30        5C       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 12
+Miércoles    13:30 - 14:30        5C       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 12
+
+============================================================
+
+PROFESOR: CARDENAS RODRIGUEZ SELENE
+No. TRABAJADOR: 7705
+TOTAL DE BLOQUES DE CLASE: 7
+------------------------------------------------------------
+Lunes        08:00 - 10:00        5A       ESTRUCTURAS ISOSTÁTICAS             AULA 10
+Lunes        14:30 - 15:30        9D       OPTATIVA DE ESTRUCTURAS I - Mecánica Avanzada 
+Martes       08:00 - 10:00        1A       FISICA GENERAL                      AULA 06
+Miércoles    08:00 - 10:00        5A       ESTRUCTURAS ISOSTÁTICAS             AULA 10
+Miércoles    13:30 - 15:30        9D       OPTATIVA DE ESTRUCTURAS I - Mecánica Avanzada 
+Jueves       07:00 - 09:00        1A       FISICA GENERAL                      AULA 06
+Viernes      07:00 - 08:00        1A       FISICA GENERAL                      AULA 06
+
+============================================================
+
+PROFESOR: DURAN ROLON MANUEL
+No. TRABAJADOR: 2936
+TOTAL DE BLOQUES DE CLASE: 12
+------------------------------------------------------------
+Lunes        07:00 - 08:00        3E       PROBABILIDAD Y ESTADÍSTICA          AULA 09
+Lunes        08:00 - 10:00        1E       APRENDIZAJE Y COMPETENCIA DIGITAL   CENTRO DE CÓMPUTO B
+Martes       07:00 - 09:00        3B       PROGRAMACIÓN DE COMPUTADORAS II / PROBABILIDAD Y ESTADÍSTICA CENTRO DE CÓMPUTO B
+Martes       09:00 - 10:00        3E       PROBABILIDAD Y ESTADÍSTICA          AULA 09
+Miércoles    08:00 - 09:00        3B       PROBABILIDAD Y ESTADÍSTICA          AULA 04
+Miércoles    09:00 - 10:00        3E       PROBABILIDAD Y ESTADÍSTICA          AULA 09
+Miércoles    10:30 - 11:30        3E       PROBABILIDAD Y ESTADÍSTICA          AULA 09
+Miércoles    12:30 - 13:30        3B       PROGRAMACIÓN DE COMPUTADORAS II     CENTRO DE CÓMPUTO A
+Jueves       07:00 - 09:00        3B       PROBABILIDAD Y ESTADÍSTICA          AULA 04
+Jueves       09:00 - 10:00        3E       PROBABILIDAD Y ESTADÍSTICA          AULA 09
+Jueves       10:30 - 12:30        3B       PROGRAMACIÓN DE COMPUTADORAS II     CENTRO DE CÓMPUTO A
+Viernes      07:00 - 08:00        3B       PROBABILIDAD Y ESTADÍSTICA          AULA 04
+
+============================================================
+
+PROFESOR: ESPINOSA GONZALEZ ADDI
+No. TRABAJADOR: 
+TOTAL DE BLOQUES DE CLASE: 1
+------------------------------------------------------------
+Lunes        16:00 - 17:00        9B       ORIENTACIÓN EDUCATIVA               AULA 13
+
+============================================================
+
+PROFESOR: GONZALEZ ROBLES MAURA
+No. TRABAJADOR: 501122
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        16:00 - 18:00        5E       INTRODUCCIÓN A LA TELEDETECCIÓN     AULA 08
+Lunes        18:00 - 19:00        5B       INTRODUCCIÓN A LA TELEDETECCIÓN     AULA 05
+Martes       16:00 - 18:00        7A       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO GEOMÁTICA
+Miércoles    16:00 - 18:00        7A       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO B
+Jueves       17:00 - 18:00        5E       INTRODUCCIÓN A LA TELEDETECCIÓN     AULA 08
+Jueves       18:00 - 20:00        5B       INTRODUCCIÓN A LA TELEDETECCIÓN     AULA 05
+Viernes      14:30 - 15:30        7A       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO B
+Viernes      16:00 - 17:00        5E       INTRODUCCIÓN A LA TELEDETECCIÓN     AULA 08
+Viernes      17:00 - 18:00        5B       INTRODUCCIÓN A LA TELEDETECCIÓN     AULA 05
+
+============================================================
+
+PROFESOR: GONZALEZ ROMERO YOLANDA
+No. TRABAJADOR: 5227
+TOTAL DE BLOQUES DE CLASE: 10
+------------------------------------------------------------
+Lunes        07:00 - 09:00        5C       INGLÉS V                            AULA 12
+Lunes        09:00 - 10:00        3D       INGLÉS III                          AULA 03
+Martes       07:00 - 09:00        1D       INGLÉS I                            AULA 08
+Martes       09:00 - 10:00        1B       INGLÉS I                            AULA 01
+Miércoles    07:00 - 09:00        3D       INGLÉS III                          AULA 03
+Miércoles    09:00 - 10:00        3B       INGLÉS III                          AULA 04
+Jueves       07:00 - 09:00        1B       INGLÉS I                            AULA 01
+Jueves       09:00 - 10:00        5C       INGLÉS V                            AULA 12
+Viernes      07:00 - 08:00        1D       INGLÉS I                            AULA 08
+Viernes      08:00 - 10:00        3B       INGLÉS III                          AULA 04
+
+============================================================
+
+PROFESOR: GONZALEZ ZEPEDA SEBASTIAN
+No. TRABAJADOR: 4569
+TOTAL DE BLOQUES DE CLASE: 6
+------------------------------------------------------------
+Lunes        07:00 - 09:00        3A       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO GEOMÁTICA
+Lunes        09:00 - 10:00        3C       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO GEOMÁTICA
+Martes       07:00 - 08:00        3A       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO A
+Martes       08:00 - 10:00        3C       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO GEOMÁTICA
+Miércoles    07:00 - 08:00        3C       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO A
+Miércoles    08:00 - 09:00        3A       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO B
+
+============================================================
+
+PROFESOR: GUZMAN NAVA FRANCISCO JAVIER
+No. TRABAJADOR: 3283
+TOTAL DE BLOQUES DE CLASE: 12
+------------------------------------------------------------
+Lunes        13:30 - 14:30        7C       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 03
+Lunes        17:00 - 19:00        7D       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 04
+Lunes        19:00 - 20:00        7A       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 01
+Martes       13:30 - 14:30        7A       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 01
+Martes       16:00 - 18:00        7C       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 03
+Miércoles    17:00 - 18:00        7D       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 04
+Miércoles    18:00 - 20:00        7A       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 01
+Jueves       17:00 - 18:00        7D       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 04
+Jueves       19:00 - 20:00        7C       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 03
+Viernes      13:30 - 14:30        7A       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 01
+Viernes      18:00 - 19:00        7D       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 04
+Viernes      19:00 - 20:00        7C       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE AULA 03
+
+============================================================
+
+PROFESOR: LARIOS RODRIGUEZ ISKRA
+No. TRABAJADOR: 5493
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        07:00 - 09:00        5D       INGLÉS V                            AULA 11
+Lunes        10:30 - 11:30        1A       INGLÉS I                            AULA 06
+Martes       11:30 - 12:30        3A       INGLÉS III                          AULA 14
+Martes       12:30 - 13:30        5D       INGLÉS V                            AULA 11
+Miércoles    09:00 - 10:00        3A       INGLÉS III                          AULA 14
+Miércoles    10:30 - 11:30        3A       INGLÉS III                          AULA 14
+Jueves       12:30 - 14:30        3E       INGLÉS III                          AULA 09
+Viernes      11:30 - 12:30        3E       INGLÉS III                          AULA 09
+Viernes      12:30 - 14:30        1A       INGLÉS I                            AULA 06
+
+============================================================
+
+PROFESOR: LICEA PANDURO RAMIRO
+No. TRABAJADOR: 3284
+TOTAL DE BLOQUES DE CLASE: 20
+------------------------------------------------------------
+Lunes        13:30 - 14:30        9D       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 02
+Lunes        14:30 - 15:30        7C       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 03
+Lunes        16:00 - 17:00        7C       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 03
+Lunes        19:00 - 20:00        9A       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 06
+Martes       12:30 - 13:30        9D       DISEÑO GEOTÉCNICO DE CIMENTACIONES  
+Martes       13:30 - 15:30        9A       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 06
+Martes       16:00 - 18:00        7D       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 04
+Martes       18:00 - 19:00        7C       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 03
+Martes       19:00 - 20:00        7A       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 01
+Miércoles    12:30 - 13:30        9A       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 06
+Miércoles    13:30 - 14:30        7A       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 01
+Miércoles    17:00 - 19:00        9D       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 02
+Jueves       13:30 - 14:30        9A       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 06
+Jueves       14:30 - 15:30        7C       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 03
+Jueves       17:00 - 18:00        9D       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 02
+Jueves       18:00 - 19:00        7A       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 01
+Jueves       19:00 - 20:00        7D       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 04
+Viernes      12:30 - 14:30        7D       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 04
+Viernes      16:00 - 18:00        7A       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 01
+Viernes      18:00 - 19:00        7C       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS AULA 03
+
+============================================================
+
+PROFESOR: LOPEZ DE LA CRUZ JESUS
+No. TRABAJADOR: 8031
+TOTAL DE BLOQUES DE CLASE: 5
+------------------------------------------------------------
+Miércoles    14:30 - 15:30        7C       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO GEOMÁTICA
+Jueves       09:00 - 10:00        1D       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD AULA 08
+Jueves       16:00 - 18:00        7C       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO B
+Viernes      08:00 - 10:00        1D       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD AULA 08
+Viernes      13:30 - 15:30        7C       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO A
+
+============================================================
+
+PROFESOR: LOPEZ PEREZ JUAN PABLO
+No. TRABAJADOR: 4176
+TOTAL DE BLOQUES DE CLASE: 16
+------------------------------------------------------------
+Lunes        10:30 - 11:30        1E       MATEMÁTICAS I                       AULA 02
+Lunes        12:30 - 13:30        3E       MATEMÁTICAS III                     AULA 09
+Lunes        13:30 - 14:30        3B       MATEMÁTICAS III                     AULA 04
+Martes       10:30 - 12:30        3E       MATEMÁTICAS III                     AULA 09
+Martes       12:30 - 14:30        3B       MATEMÁTICAS III                     AULA 04
+Martes       17:00 - 18:00        7E       OPTATIVA II DE GEOMÁTICA - Aplicaciones de teledetección AULA 09
+Miércoles    10:30 - 12:30        1E       MATEMÁTICAS I                       AULA 02
+Miércoles    12:30 - 14:30        3E       MATEMÁTICAS III                     AULA 09
+Miércoles    14:30 - 15:30        7E       OPTATIVA II DE GEOMÁTICA - Aplicaciones de teledetección AULA 09
+Miércoles    16:00 - 17:00        7E       OPTATIVA II DE GEOMÁTICA - Aplicaciones de teledetección AULA 09
+Jueves       10:30 - 12:30        1E       MATEMÁTICAS I                       AULA 02
+Jueves       12:30 - 14:30        3B       MATEMÁTICAS III                     AULA 04
+Jueves       16:00 - 18:00        7E       OPTATIVA II DE GEOMÁTICA - Aplicaciones de teledetección AULA 09
+Viernes      10:30 - 11:30        3E       MATEMÁTICAS III                     AULA 09
+Viernes      11:30 - 12:30        3B       MATEMÁTICAS III                     AULA 04
+Viernes      12:30 - 13:30        1E       MATEMÁTICAS I                       AULA 02
+
+============================================================
+
+PROFESOR: LOPEZ ROJAS MARIO
+No. TRABAJADOR: 4404
+TOTAL DE BLOQUES DE CLASE: 14
+------------------------------------------------------------
+Lunes        10:30 - 11:30        1D       FISICA GENERAL                      AULA 08
+Lunes        11:30 - 13:30        1E       FÍSICA I                            AULA 02
+Martes       09:00 - 10:00        1D       FISICA GENERAL                      AULA 08
+Martes       10:30 - 11:30        1D       FISICA GENERAL                      AULA 08
+Martes       11:30 - 13:30        1C       FISICA GENERAL                      AULA 07
+Miércoles    09:00 - 10:00        1C       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD AULA 07
+Miércoles    10:30 - 12:30        1D       FISICA GENERAL                      AULA 08
+Miércoles    12:30 - 14:30        3C       LABORATORIO DE CONCRETOS            AULA 05
+Jueves       09:00 - 10:00        1C       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD AULA 07
+Jueves       10:30 - 12:30        1C       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD / FISICA GENERAL AULA 07
+Jueves       12:30 - 14:30        1E       FÍSICA I                            AULA 02
+Viernes      09:00 - 10:00        3C       LABORATORIO DE CONCRETOS            AULA 05
+Viernes      10:30 - 11:30        1E       FÍSICA I                            AULA 02
+Viernes      11:30 - 13:30        1C       FISICA GENERAL                      AULA 07
+
+============================================================
+
+PROFESOR: MARTINEZ DIAZ TERESA EVANGELINA
+No. TRABAJADOR: 5593
+TOTAL DE BLOQUES DE CLASE: 15
+------------------------------------------------------------
+Lunes        10:30 - 11:30        1B       COMUNICACIÓN FORMAL Y ACTITUD PROFESIONAL AULA 01
+Lunes        11:30 - 13:30        3B       CARTOGRAFÍA DIGITAL                 CENTRO DE CÓMPUTO A
+Lunes        13:30 - 14:30        7D       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO B
+Lunes        17:00 - 18:00        9B       ÉTICA PROFESIONAL APLICADA          AULA 13
+Martes       11:30 - 12:30        3B       CARTOGRAFÍA DIGITAL                 CENTRO DE CÓMPUTO B
+Martes       12:30 - 15:30        7D       HIDROLOGÍA SUPERFICIAL / OPTATIVA GENERAL II - Sistemas de Información Geográfica CENTRO DE CÓMPUTO A
+Martes       16:00 - 18:00        5E       PROYECTO INTEGRADOR IV              AULA 08
+Miércoles    10:30 - 12:30        1B       COMUNICACIÓN FORMAL Y ACTITUD PROFESIONAL AULA 01
+Miércoles    17:00 - 18:00        7E       INVESTIGACIÓN APLICADA A LA INGENIERÍA CENTRO DE CÓMPUTO A
+Jueves       12:30 - 14:30        7D       OPTATIVA GENERAL II - Sistemas de Información Geográfica CENTRO DE CÓMPUTO B
+Jueves       16:00 - 17:00        9B       ÉTICA PROFESIONAL APLICADA          AULA 13
+Jueves       18:00 - 19:00        7E       INVESTIGACIÓN APLICADA A LA INGENIERÍA CENTRO DE CÓMPUTO B
+Viernes      10:30 - 11:30        3B       CARTOGRAFÍA DIGITAL                 CENTRO DE CÓMPUTO A
+Viernes      12:30 - 14:30        7E       PROYECTO INTEGRADOR VI              CENTRO DE CÓMPUTO GEOMÁTICA
+Viernes      16:00 - 18:00        7D       HIDROLOGÍA SUPERFICIAL              CENTRO DE CÓMPUTO A
+
+============================================================
+
+PROFESOR: MEJIA RIVERA SANDRA MARCELA
+No. TRABAJADOR: 6953
+TOTAL DE BLOQUES DE CLASE: 15
+------------------------------------------------------------
+Lunes        08:00 - 10:00        3B       PROYECTO INTEGRADOR II              AULA 04
+Lunes        11:30 - 13:30        1D       COMUNICACIÓN FORMAL                 AULA 08
+Lunes        13:30 - 15:30        5B       PROYECTO INTEGRADOR IV              AULA 05
+Martes       08:00 - 09:00        1E       COMUNICACIÓN FORMAL Y ACTITUD PROFESIONAL AULA 02
+Martes       09:00 - 10:00        3D       ETICA PROFESIONAL                   AULA 03
+Martes       11:30 - 12:30        3C       ETICA PROFESIONAL                   AULA 05
+Martes       12:30 - 13:30        1A       COMUNICACIÓN FORMAL                 AULA 06
+Miércoles    08:00 - 10:00        3C       ETICA PROFESIONAL                   AULA 05
+Miércoles    11:30 - 12:30        3A       ETICA PROFESIONAL                   AULA 14
+Miércoles    12:30 - 14:30        1E       COMUNICACIÓN FORMAL Y ACTITUD PROFESIONAL AULA 02
+Jueves       08:00 - 10:00        3A       ETICA PROFESIONAL                   AULA 14
+Jueves       11:30 - 13:30        1A       COMUNICACIÓN FORMAL                 AULA 06
+Viernes      09:00 - 10:00        3D       ETICA PROFESIONAL                   AULA 03
+Viernes      10:30 - 11:30        3D       ETICA PROFESIONAL                   AULA 03
+Viernes      11:30 - 12:30        1D       COMUNICACIÓN FORMAL                 AULA 08
+
+============================================================
+
+PROFESOR: MENDOZA CANO OLIVER
+No. TRABAJADOR: 6578
+TOTAL DE BLOQUES DE CLASE: 2
+------------------------------------------------------------
+Lunes        12:30 - 14:30        9C       SEMINARIO DE INVESTIGACIÓN          AULA 07
+Lunes        16:00 - 19:00        9C       OPTATIVA DE AMBIENTAL I - Tratamiento de Aguas Residuales AULA 07
+
+============================================================
+
+PROFESOR: MONTAÑO CARDENAS LUIS ENRIQUE
+No. TRABAJADOR: 6695
+TOTAL DE BLOQUES DE CLASE: 20
+------------------------------------------------------------
+Lunes        11:30 - 13:30        3A       LABORATORIO DE CONCRETOS            AULA 14
+Lunes        14:30 - 15:30        7D       INGENIERÍA DE TRANSPORTES           AULA 04
+Lunes        16:00 - 17:00        7D       INGENIERÍA DE TRANSPORTES           AULA 04
+Lunes        19:00 - 20:00        9C       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 07
+Martes       14:30 - 15:30        9C       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 07
+Martes       16:00 - 18:00        9D       OPTATIVA DE TRANSPORTE - Proyecto de Vías Terrestres AULA 02
+Martes       18:00 - 19:00        7D       INGENIERÍA DE TRANSPORTES           AULA 04
+Miércoles    12:30 - 14:30        3D       LABORATORIO DE CONCRETOS            AULA 03
+Miércoles    14:30 - 15:30        7D       INGENIERÍA DE TRANSPORTES           AULA 04
+Miércoles    16:00 - 17:00        7D       INGENIERÍA DE TRANSPORTES           AULA 04
+Miércoles    17:00 - 19:00        9C       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 07
+Jueves       14:30 - 15:30        7D       LABORATORIO DE SUELOS II            AULA 04
+Jueves       16:00 - 17:00        7D       LABORATORIO DE SUELOS II            AULA 04
+Jueves       17:00 - 18:00        9C       DISEÑO GEOTÉCNICO DE CIMENTACIONES  AULA 07
+Jueves       19:00 - 20:00        9D       OPTATIVA DE TRANSPORTE - Proyecto de Vías Terrestres AULA 02
+Viernes      11:30 - 12:30        3D       LABORATORIO DE CONCRETOS            AULA 03
+Viernes      13:30 - 14:30        3A       LABORATORIO DE CONCRETOS            AULA 14
+Viernes      14:30 - 15:30        7D       INGENIERÍA DE TRANSPORTES           AULA 04
+Viernes      16:00 - 18:00        7C       LABORATORIO DE SUELOS II            AULA 03
+Viernes      18:00 - 20:00        7A       LABORATORIO DE SUELOS II            AULA 01
+
+============================================================
+
+PROFESOR: MONTEJO QUE MARCO
+No. TRABAJADOR: 7698
+TOTAL DE BLOQUES DE CLASE: 2
+------------------------------------------------------------
+Lunes        08:00 - 10:00        1A       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD AULA 06
+Viernes      09:00 - 10:00        1A       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD AULA 06
+
+============================================================
+
+PROFESOR: OLIVO VELAZQUEZ MARCELA XITLALI
+No. TRABAJADOR: 7576
+TOTAL DE BLOQUES DE CLASE: 4
+------------------------------------------------------------
+Lunes        08:00 - 10:00        1C       COMUNICACIÓN FORMAL                 AULA 07
+Miércoles    08:00 - 09:00        1C       COMUNICACIÓN FORMAL                 AULA 07
+Jueves       08:00 - 09:00        3E       PROYECTO INTEGRADOR II              AULA 09
+Viernes      08:00 - 09:00        3E       PROYECTO INTEGRADOR II              AULA 09
+
+============================================================
+
+PROFESOR: ORDUÑA BUSTAMANTE AGUSTÍN
+No. TRABAJADOR: 5337
+TOTAL DE BLOQUES DE CLASE: 10
+------------------------------------------------------------
+Lunes        13:30 - 14:30        5A       MECÁNICA DE MATERIALES              AULA 10
+Martes       11:30 - 13:30        5C       ESTRUCTURAS ISOSTÁTICAS             AULA 12
+Martes       13:30 - 15:30        5A       MECÁNICA DE MATERIALES              AULA 10
+Miércoles    11:30 - 12:30        5D       ESTRUCTURAS ISOSTÁTICAS             AULA 11
+Miércoles    12:30 - 13:30        5C       ESTRUCTURAS ISOSTÁTICAS             AULA 12
+Miércoles    13:30 - 14:30        5A       MECÁNICA DE MATERIALES              AULA 10
+Jueves       12:30 - 14:30        5D       ESTRUCTURAS ISOSTÁTICAS             AULA 11
+Viernes      11:30 - 12:30        5D       ESTRUCTURAS ISOSTÁTICAS             AULA 11
+Viernes      13:30 - 14:30        5C       ESTRUCTURAS ISOSTÁTICAS             AULA 12
+Viernes      14:30 - 15:30        5A       MECÁNICA DE MATERIALES              AULA 10
+
+============================================================
+
+PROFESOR: PIÑA RIOS JUAN MANUEL
+No. TRABAJADOR: 9373
+TOTAL DE BLOQUES DE CLASE: 21
+------------------------------------------------------------
+Lunes        07:00 - 09:00        1D       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO A
+Lunes        09:00 - 10:00        1B       DIBUJO                              CENTRO DE CÓMPUTO A
+Lunes        11:30 - 13:30        1C       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO B
+Lunes        13:30 - 15:30        7E       OPTATIVA II DE TOPOGRAFÍA - Topografía de minas AULA 09
+Martes       08:00 - 10:00        1C       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO B
+Martes       10:30 - 11:30        1A       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO B
+Martes       11:30 - 12:30        1D       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO A
+Martes       12:30 - 14:30        7E       OPTATIVA II DE TOPOGRAFÍA - Topografía de minas AULA 09
+Martes       14:30 - 15:30        5E       TOPOGRAFÍA URBANA Y CATASTRAL       AULA 08
+Miércoles    07:00 - 09:00        1B       DIBUJO                              CENTRO DE CÓMPUTO GEOMÁTICA
+Miércoles    09:00 - 10:00        1E       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA AULA 02
+Miércoles    12:30 - 14:30        1A       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO B
+Miércoles    14:30 - 15:30        5E       TOPOGRAFÍA URBANA Y CATASTRAL       AULA 08
+Jueves       07:00 - 09:00        1D       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO A
+Jueves       09:00 - 10:00        1E       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA AULA 02
+Jueves       12:30 - 13:30        1C       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO A
+Jueves       13:30 - 15:30        5E       TOPOGRAFÍA URBANA Y CATASTRAL       AULA 08
+Viernes      07:00 - 09:00        1B       DIBUJO                              CENTRO DE CÓMPUTO B
+Viernes      10:30 - 12:30        1A       DIBUJO EN INGENIERÍA                CENTRO DE CÓMPUTO GEOMÁTICA
+Viernes      13:30 - 14:30        1E       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA AULA 02
+Viernes      14:30 - 15:30        7E       OPTATIVA II DE TOPOGRAFÍA - Topografía de minas AULA 09
+
+============================================================
+
+PROFESOR: PRECIADO CASTILLO MARCO ANTONIO
+No. TRABAJADOR: 7468
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        16:00 - 18:00        7B       PRESUPUESTACIÓN                     AULA 14
+Martes       16:00 - 18:00        9C       OPTATIVA DE TRANSPORTE - Movimiento de tierras AULA 07
+Martes       18:00 - 19:00        7B       PRESUPUESTACIÓN                     AULA 14
+Miércoles    16:00 - 17:00        9D       OPTATIVA GENERAL IV - Conservación y mantenimiento de obras AULA 02
+Miércoles    17:00 - 18:00        7B       PRESUPUESTACIÓN                     AULA 14
+Jueves       14:30 - 15:30        9D       OPTATIVA GENERAL IV - Conservación y mantenimiento de obras AULA 02
+Jueves       16:00 - 17:00        9D       OPTATIVA GENERAL IV - Conservación y mantenimiento de obras AULA 02
+Jueves       18:00 - 19:00        7B       PRESUPUESTACIÓN                     AULA 14
+Jueves       19:00 - 20:00        9C       OPTATIVA DE TRANSPORTE - Movimiento de tierras AULA 07
+
+============================================================
+
+PROFESOR: PRECIADO DE LA CRUZ CLAUDIA
+No. TRABAJADOR: 4959
+TOTAL DE BLOQUES DE CLASE: 2
+------------------------------------------------------------
+Miércoles    12:30 - 14:30        5E       INGLÉS V                            CEI Coquimatlán
+Jueves       12:30 - 13:30        5E       INGLÉS V                            CEI Coquimatlán
+
+============================================================
+
+PROFESOR: QUINTANILLA MONTOYA ANA LUZ
+No. TRABAJADOR: 6126
+TOTAL DE BLOQUES DE CLASE: 4
+------------------------------------------------------------
+Lunes        13:30 - 14:30        9A       SEMINARIO DE INVESTIGACIÓN          AULA 06
+Miércoles    12:30 - 15:30        9B       OPTATIVA GENERAL V - Riesgos ambientales AULA 13
+Jueves       13:30 - 15:30        9B       OPTATIVA GENERAL V - Riesgos ambientales AULA 13
+Jueves       17:00 - 18:00        9A       SEMINARIO DE INVESTIGACIÓN          AULA 06
+
+============================================================
+
+PROFESOR: RAMIREZ LOMELI CESAR IVAN
+No. TRABAJADOR: 8090
+TOTAL DE BLOQUES DE CLASE: 16
+------------------------------------------------------------
+Lunes        10:30 - 11:30        3B       TOPOGRAFÍA GENERAL II               AULA 04
+Lunes        12:30 - 15:30        7B       OPTATIVA I DE TOPOGRAFÍA - Top. con equipo de Alta Precisión / OPTATIVA II DE TOPOGRAFÍA - Top. con GPS Cinematico 
+Martes       08:00 - 09:00        1B       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA AULA 01
+Martes       09:00 - 10:00        3B       TOPOGRAFÍA GENERAL II               AULA 04
+Martes       10:30 - 11:30        3B       TOPOGRAFÍA GENERAL II               AULA 04
+Martes       12:30 - 14:30        7B       OPTATIVA II DE TOPOGRAFÍA - Top. con GPS Cinematico AULA 14
+Miércoles    10:30 - 12:30        3B       TOPOGRAFÍA GENERAL II               AULA 04
+Miércoles    12:30 - 14:30        7B       OPTATIVA I DE TOPOGRAFÍA - Top. con equipo de Alta Precisión 
+Miércoles    14:30 - 15:30        5B       TOPOGRAFÍA URBANA Y CATASTRAL       AULA 05
+Jueves       09:00 - 10:00        3B       TOPOGRAFÍA GENERAL II               AULA 04
+Jueves       10:30 - 11:30        1B       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA AULA 01
+Jueves       12:30 - 14:30        7B       OPTATIVA I DE TOPOGRAFÍA - Top. con equipo de Alta Precisión 
+Jueves       14:30 - 15:30        5B       TOPOGRAFÍA URBANA Y CATASTRAL       AULA 05
+Viernes      09:00 - 10:00        1B       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA AULA 01
+Viernes      12:30 - 14:30        5B       TOPOGRAFÍA URBANA Y CATASTRAL       AULA 05
+Viernes      14:30 - 15:30        7B       OPTATIVA II DE TOPOGRAFÍA - Top. con GPS Cinematico AULA 14
+
+============================================================
+
+PROFESOR: RAMIREZ LUNA CONCEPCION
+No. TRABAJADOR: 9006
+TOTAL DE BLOQUES DE CLASE: 19
+------------------------------------------------------------
+Lunes        09:00 - 10:00        1D       QUÍMICA PARA INGENIERÍA             AULA 08
+Lunes        10:30 - 11:30        1C       QUÍMICA PARA INGENIERÍA             AULA 07
+Lunes        11:30 - 13:30        1A       QUÍMICA PARA INGENIERÍA             AULA 06
+Lunes        14:30 - 15:30        5A       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 10
+Martes       08:00 - 09:00        5C       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 12
+Martes       10:30 - 11:30        1C       QUÍMICA PARA INGENIERÍA             AULA 07
+Martes       11:30 - 12:30        1A       QUÍMICA PARA INGENIERÍA             AULA 06
+Martes       12:30 - 13:30        5A       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 10
+Miércoles    07:00 - 08:00        5A       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 10
+Miércoles    08:00 - 10:00        1A       QUÍMICA PARA INGENIERÍA             AULA 06
+Miércoles    10:30 - 11:30        5C       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 12
+Miércoles    12:30 - 14:30        1D       QUÍMICA PARA INGENIERÍA             AULA 08
+Jueves       08:00 - 10:00        5A       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 10
+Jueves       10:30 - 11:30        1D       QUÍMICA PARA INGENIERÍA             AULA 08
+Jueves       12:30 - 13:30        5C       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 12
+Jueves       13:30 - 14:30        1C       QUÍMICA PARA INGENIERÍA             AULA 07
+Viernes      08:00 - 10:00        1C       QUÍMICA PARA INGENIERÍA             AULA 07
+Viernes      10:30 - 11:30        1D       QUÍMICA PARA INGENIERÍA             AULA 08
+Viernes      11:30 - 13:30        5C       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL AULA 12
+
+============================================================
+
+PROFESOR: RIVERA ARIAS JUAN LUIS
+No. TRABAJADOR: 8314
+TOTAL DE BLOQUES DE CLASE: 5
+------------------------------------------------------------
+Miércoles    09:00 - 10:00        1B       APRENDIZAJE Y COMPETENCIA DIGITAL   CENTRO DE CÓMPUTO GEOMÁTICA
+Miércoles    11:30 - 12:30        3E       PROGRAMACIÓN DE COMPUTADORAS II     CENTRO DE CÓMPUTO GEOMÁTICA
+Jueves       09:00 - 10:00        1B       APRENDIZAJE Y COMPETENCIA DIGITAL   CENTRO DE CÓMPUTO GEOMÁTICA
+Jueves       10:30 - 12:30        3E       PROGRAMACIÓN DE COMPUTADORAS II     CENTRO DE CÓMPUTO GEOMÁTICA
+Viernes      09:00 - 10:00        3E       PROGRAMACIÓN DE COMPUTADORAS II     CENTRO DE CÓMPUTO GEOMÁTICA
+
+============================================================
+
+PROFESOR: ROBLES RODRIGUEZ SERGIO ULISES
+No. TRABAJADOR: 8355
+TOTAL DE BLOQUES DE CLASE: 8
+------------------------------------------------------------
+Martes       10:30 - 11:30        3C       INGLÉS III                          AULA 05
+Martes       11:30 - 13:30        1E       INGLÉS I                            AULA 02
+Miércoles    10:30 - 12:30        1C       INGLÉS I                            AULA 07
+Jueves       10:30 - 12:30        3C       INGLÉS III                          AULA 05
+Jueves       12:30 - 13:30        5A       INGLÉS V                            AULA 10
+Viernes      10:30 - 11:30        1C       INGLÉS I                            AULA 07
+Viernes      11:30 - 12:30        1E       INGLÉS I                            AULA 02
+Viernes      12:30 - 14:30        5A       INGLÉS V                            AULA 10
+
+============================================================
+
+PROFESOR: RODRIGUEZ CAMPOS MARIA MAGDALENA
+No. TRABAJADOR: 3661
+TOTAL DE BLOQUES DE CLASE: 3
+------------------------------------------------------------
+Lunes        16:00 - 17:00        5B       INGLÉS V                            AULA 05
+Martes       16:00 - 17:00        5B       INGLÉS V                            AULA 05
+Miércoles    16:00 - 17:00        5B       INGLÉS V                            AULA 05
+
+============================================================
+
+PROFESOR: ROEDER CARBO GUILLERMO MARTIN
+No. TRABAJADOR: 5555
+TOTAL DE BLOQUES DE CLASE: 7
+------------------------------------------------------------
+Lunes        12:30 - 15:30        5D       INVESTIGACIÓN APLICADA A LA INGENIERÍA / MECÁNICA DE MATERIALES AULA 11
+Martes       13:30 - 14:30        5D       MECÁNICA DE MATERIALES              AULA 11
+Martes       14:30 - 15:30        7C       OPTATIVA GENERAL II - Diseño Estructuras de Madera LABORATORIO DE FENÓMENOS 
+Miércoles    12:30 - 13:30        5D       MECÁNICA DE MATERIALES              AULA 11
+Jueves       12:30 - 14:30        7C       OPTATIVA GENERAL II - Diseño Estructuras de Madera LABORATORIO DE FENÓMENOS 
+Jueves       14:30 - 15:30        5D       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 11
+Viernes      13:30 - 15:30        5D       MECÁNICA DE MATERIALES              AULA 11
+
+============================================================
+
+PROFESOR: ROJAS MIRANDA JULIO CESAR
+No. TRABAJADOR: 7706
+TOTAL DE BLOQUES DE CLASE: 11
+------------------------------------------------------------
+Lunes        14:30 - 15:30        7A       INGENIERÍA DE TRANSPORTES           AULA 01
+Lunes        16:00 - 17:00        7A       INGENIERÍA DE TRANSPORTES           AULA 01
+Lunes        17:00 - 19:00        7C       INGENIERÍA DE TRANSPORTES           AULA 03
+Martes       16:00 - 18:00        9A       OPTATIVA DE TRANSPORTE - Diseño de Pavimentos AULA 06
+Martes       18:00 - 19:00        7A       INGENIERÍA DE TRANSPORTES           AULA 01
+Martes       19:00 - 20:00        7C       INGENIERÍA DE TRANSPORTES           AULA 03
+Miércoles    18:00 - 20:00        7C       INGENIERÍA DE TRANSPORTES           AULA 03
+Jueves       14:30 - 15:30        7A       INGENIERÍA DE TRANSPORTES           AULA 01
+Jueves       16:00 - 18:00        7A       INGENIERÍA DE TRANSPORTES           AULA 01
+Jueves       18:00 - 19:00        7C       INGENIERÍA DE TRANSPORTES           AULA 03
+Jueves       19:00 - 20:00        9A       OPTATIVA DE TRANSPORTE - Diseño de Pavimentos AULA 06
+
+============================================================
+
+PROFESOR: RUIZ MONTERO ANGELICA PATRICIA
+No. TRABAJADOR: 6378
+TOTAL DE BLOQUES DE CLASE: 1
+------------------------------------------------------------
+Lunes        16:00 - 19:00        9A       OPTATIVA DE AMBIENTAL I - Manejo de Residuos Sólidos Urbanos AULA 06
+
+============================================================
+
+PROFESOR: SANCHEZ ALEJANDRE ALFREDO
+No. TRABAJADOR: 8032
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        17:00 - 19:00        7A       DISEÑO DE ELEMENTOS DE ACERO        AULA 01
+Lunes        19:00 - 20:00        7C       DISEÑO DE ELEMENTOS DE ACERO        AULA 03
+Martes       13:30 - 14:30        7C       DISEÑO DE ELEMENTOS DE ACERO        AULA 03
+Martes       19:00 - 20:00        7D       DISEÑO DE ELEMENTOS DE ACERO        AULA 04
+Miércoles    14:30 - 15:30        7A       DISEÑO DE ELEMENTOS DE ACERO        AULA 01
+Miércoles    16:00 - 18:00        7C       DISEÑO DE ELEMENTOS DE ACERO        AULA 03
+Miércoles    18:00 - 20:00        7D       DISEÑO DE ELEMENTOS DE ACERO        AULA 04
+Jueves       18:00 - 19:00        7D       DISEÑO DE ELEMENTOS DE ACERO        AULA 04
+Jueves       19:00 - 20:00        7A       DISEÑO DE ELEMENTOS DE ACERO        AULA 01
+
+============================================================
+
+PROFESOR: SANCHEZ PARBUL ERNESTO
+No. TRABAJADOR: 5612
+TOTAL DE BLOQUES DE CLASE: 7
+------------------------------------------------------------
+Lunes        09:00 - 10:00        5D       HIDRÁULICA DE TUBERÍAS              AULA 11
+Martes       09:00 - 10:00        5D       HIDRÁULICA DE TUBERÍAS              LABORATORIO DE HIDRAULICA
+Martes       10:30 - 11:30        5D       HIDRÁULICA DE TUBERÍAS              LABORATORIO DE HIDRAULICA
+Martes       14:30 - 15:30        7A       OPTATIVA GENERAL II - Tópicos Selectos de Ingeniería Hidráulica AULA LABORATORIO DE HIDRÁULICA
+Jueves       09:00 - 10:00        5D       HIDRÁULICA DE TUBERÍAS              AULA 11
+Jueves       12:30 - 14:30        7A       OPTATIVA GENERAL II - Tópicos Selectos de Ingeniería Hidráulica AULA LABORATORIO DE HIDRÁULICA
+Viernes      10:30 - 11:30        5D       HIDRÁULICA DE TUBERÍAS              AULA 11
+
+============================================================
+
+PROFESOR: SANCHEZ SANCHEZ EVA PAULINA
+No. TRABAJADOR: 7469
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        10:30 - 11:30        3C       DINÁMICA DEL CUERPO RÍGIDO          AULA 05
+Lunes        11:30 - 13:30        3D       DINÁMICA DEL CUERPO RÍGIDO          AULA 03
+Martes       10:30 - 11:30        3A       DINÁMICA DEL CUERPO RÍGIDO          AULA 14
+Martes       11:30 - 12:30        3D       DINÁMICA DEL CUERPO RÍGIDO          AULA 03
+Martes       12:30 - 13:30        3C       DINÁMICA DEL CUERPO RÍGIDO          AULA 05
+Miércoles    11:30 - 12:30        3D       DINÁMICA DEL CUERPO RÍGIDO          AULA 03
+Miércoles    12:30 - 13:30        3A       DINÁMICA DEL CUERPO RÍGIDO          AULA 14
+Jueves       11:30 - 13:30        3A       DINÁMICA DEL CUERPO RÍGIDO          AULA 14
+Viernes      10:30 - 12:30        3C       DINÁMICA DEL CUERPO RÍGIDO          AULA 05
+
+============================================================
+
+PROFESOR: SANCHEZ VELASCO ROSENDO
+No. TRABAJADOR: 3652
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        08:00 - 10:00        3E       TOPOGRAFÍA GENERAL II               CENTRO DE CÓMPUTO TOPOGRAFÍA Y FOTOG.
+Lunes        10:30 - 12:30        3E       TOPOGRAFÍA GENERAL II               CENTRO DE CÓMPUTO TOPOGRAFÍA Y FOTOG.
+Lunes        12:30 - 13:30        7E       OPTATIVA I DE TOPOGRAFÍA - Vías Terrestres CENTRO DE CÓMPUTO GEOMÁTICA
+Martes       07:00 - 09:00        3E       TOPOGRAFÍA GENERAL II               CENTRO DE CÓMPUTO TOPOGRAFÍA Y FOTOG.
+Martes       09:00 - 10:00        1E       DIBUJO                              CENTRO DE CÓMPUTO A
+Martes       10:30 - 11:30        1E       DIBUJO                              CENTRO DE CÓMPUTO A
+Miércoles    12:30 - 14:30        7E       OPTATIVA I DE TOPOGRAFÍA - Vías Terrestres CENTRO DE CÓMPUTO GEOMÁTICA
+Jueves       12:30 - 14:30        7E       OPTATIVA I DE TOPOGRAFÍA - Vías Terrestres CENTRO DE CÓMPUTO GEOMÁTICA
+Viernes      07:00 - 10:00        1E       DIBUJO                              CENTRO DE CÓMPUTO A
+
+============================================================
+
+PROFESOR: SANTIAGO JIMENEZ HYDYN
+No. TRABAJADOR: 3857
+TOTAL DE BLOQUES DE CLASE: 8
+------------------------------------------------------------
+Lunes        12:30 - 13:30        5B       GEODESIA ESPACIAL                   
+Lunes        13:30 - 15:30        5E       GEODESIA ESPACIAL                   AULA 08
+Martes       12:30 - 13:30        5E       GEODESIA ESPACIAL                   AULA 08
+Martes       13:30 - 15:30        5B       GEODESIA ESPACIAL                   AULA 05
+Miércoles    16:00 - 17:00        5E       GEODESIA ESPACIAL                   AULA 08
+Jueves       16:00 - 17:00        5E       GEODESIA ESPACIAL                   AULA 08
+Viernes      14:30 - 15:30        5B       GEODESIA ESPACIAL                   AULA 05
+Viernes      16:00 - 17:00        5B       GEODESIA ESPACIAL                   AULA 05
+
+============================================================
+
+PROFESOR: SOLANO BARAJAS RAMON
+No. TRABAJADOR: 3809
+TOTAL DE BLOQUES DE CLASE: 5
+------------------------------------------------------------
+Lunes        10:30 - 11:30        3D       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO B
+Martes       10:30 - 11:30        3D       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO GEOMÁTICA
+Miércoles    10:30 - 12:30        3C       ESTADÍSTICA INFERENCIAL             AULA 05
+Jueves       10:30 - 12:30        3D       HEURÍSTICA Y BASES DE DATOS         CENTRO DE CÓMPUTO B
+Jueves       12:30 - 13:30        3C       ESTADÍSTICA INFERENCIAL             AULA 05
+
+============================================================
+
+PROFESOR: TEJEDA CAMPOS GLADYS ILEANA
+No. TRABAJADOR: 3740
+TOTAL DE BLOQUES DE CLASE: 22
+------------------------------------------------------------
+Lunes        07:00 - 09:00        3D       CÁLCULO VECTORIAL                   AULA 03
+Lunes        09:00 - 10:00        3A       CÁLCULO VECTORIAL                   AULA 14
+Lunes        10:30 - 11:30        3A       CÁLCULO VECTORIAL                   AULA 14
+Lunes        11:30 - 13:30        3C       CÁLCULO VECTORIAL                   AULA 05
+Lunes        13:30 - 14:30        1B       MATEMÁTICAS I                       AULA 01
+Martes       07:00 - 08:00        3C       CÁLCULO VECTORIAL                   AULA 05
+Martes       08:00 - 09:00        3D       CÁLCULO VECTORIAL                   AULA 03
+Martes       10:30 - 13:30        1B       MATEMÁTICAS I                       AULA 01
+Miércoles    07:00 - 08:00        3A       CÁLCULO VECTORIAL                   AULA 14
+Miércoles    08:00 - 10:00        1D       ALGEBRA Y GEOMETRIA ANALITICA       AULA 08
+Miércoles    10:30 - 12:30        1A       ALGEBRA Y GEOMETRIA ANALITICA       AULA 06
+Miércoles    12:30 - 14:30        1C       ALGEBRA Y GEOMETRIA ANALITICA       AULA 07
+Jueves       07:00 - 09:00        1C       ALGEBRA Y GEOMETRIA ANALITICA       AULA 07
+Jueves       09:00 - 10:00        1A       ALGEBRA Y GEOMETRIA ANALITICA       AULA 06
+Jueves       10:30 - 11:30        1A       ALGEBRA Y GEOMETRIA ANALITICA       AULA 06
+Jueves       11:30 - 13:30        1D       ALGEBRA Y GEOMETRIA ANALITICA       AULA 08
+Jueves       13:30 - 14:30        1B       MATEMÁTICAS I                       AULA 01
+Viernes      07:00 - 09:00        3C       CÁLCULO VECTORIAL                   AULA 05
+Viernes      09:00 - 10:00        3A       CÁLCULO VECTORIAL                   AULA 14
+Viernes      10:30 - 11:30        3A       CÁLCULO VECTORIAL                   AULA 14
+Viernes      11:30 - 12:30        1B       MATEMÁTICAS I                       AULA 01
+Viernes      12:30 - 14:30        3D       CÁLCULO VECTORIAL                   AULA 03
+
+============================================================
+
+PROFESOR: TEJEDA GONZALEZ JUAN CARLOS
+No. TRABAJADOR: 6856
+TOTAL DE BLOQUES DE CLASE: 3
+------------------------------------------------------------
+Lunes        13:30 - 15:30        9B       SEMINARIO DE TITULACIÓN             AULA 13
+Lunes        16:00 - 19:00        9D       OPTATIVA DE AMBIENTAL I - Impacto Ambiental AULA 02
+Martes       13:30 - 15:30        9D       SEMINARIO DE INVESTIGACIÓN          AULA 02
+
+============================================================
+
+PROFESOR: URIBE RAMOS JUAN MANUEL
+No. TRABAJADOR: 5308
+TOTAL DE BLOQUES DE CLASE: 13
+------------------------------------------------------------
+Martes       14:30 - 15:30        7B       OPTATIVA I DE GEOMÁTICA - SIG para Atlas de riesgos naturales AULA 14
+Martes       16:00 - 18:00        7B       OPTATIVA I DE GEOMÁTICA - SIG para Atlas de riesgos naturales / OPTATIVA II DE GEOMÁTICA - Planificación y Uso de Suelo AULA 14
+Martes       18:00 - 20:00        5E       HIDROLOGÍA DE CUENCAS               AULA 08
+Miércoles    14:30 - 15:30        7B       OPTATIVA II DE GEOMÁTICA - Planificación y Uso de Suelo AULA 14
+Miércoles    16:00 - 17:00        7B       OPTATIVA II DE GEOMÁTICA - Planificación y Uso de Suelo AULA 14
+Miércoles    17:00 - 19:00        5B       HIDROLOGÍA DE CUENCAS               AULA 05
+Jueves       13:30 - 14:30        5B       HIDROLOGÍA DE CUENCAS               AULA 05
+Jueves       14:30 - 15:30        7B       OPTATIVA I DE GEOMÁTICA - SIG para Atlas de riesgos naturales AULA 14
+Jueves       16:00 - 18:00        7B       OPTATIVA II DE GEOMÁTICA - Planificación y Uso de Suelo AULA 14
+Jueves       18:00 - 19:00        5E       HIDROLOGÍA DE CUENCAS               AULA 08
+Viernes      12:30 - 14:30        5E       HIDROLOGÍA DE CUENCAS               AULA 08
+Viernes      16:00 - 18:00        7B       OPTATIVA I DE GEOMÁTICA - SIG para Atlas de riesgos naturales AULA 14
+Viernes      18:00 - 20:00        5B       HIDROLOGÍA DE CUENCAS               AULA 05
+
+============================================================
+
+PROFESOR: VAZQUEZ VERJAN EDGAR RICARDO
+No. TRABAJADOR: 7912
+TOTAL DE BLOQUES DE CLASE: 9
+------------------------------------------------------------
+Lunes        16:00 - 18:00        7E       PRESUPUESTACIÓN                     AULA 09
+Lunes        18:00 - 19:00        9B       OPTATIVA GENERAL IV - Administración en Ingeniería AULA 13
+Miércoles    16:00 - 17:00        9C       OPTATIVA GENERAL IV - Edificación Urbana AULA 07
+Miércoles    17:00 - 19:00        9B       OPTATIVA GENERAL IV - Administración en Ingeniería AULA 13
+Jueves       14:30 - 15:30        9C       OPTATIVA GENERAL IV - Edificación Urbana AULA 07
+Jueves       16:00 - 17:00        9C       OPTATIVA GENERAL IV - Edificación Urbana AULA 07
+Jueves       17:00 - 19:00        9B       OPTATIVA GENERAL IV - Administración en Ingeniería AULA 13
+Jueves       19:00 - 20:00        7E       PRESUPUESTACIÓN                     AULA 09
+Viernes      18:00 - 20:00        7E       PRESUPUESTACIÓN                     AULA 09
+
+============================================================
+
+PROFESOR: VEGA GOMEZ RAFAEL
+No. TRABAJADOR: 7304
+TOTAL DE BLOQUES DE CLASE: 22
+------------------------------------------------------------
+Lunes        08:00 - 09:00        3C       INGENIERÍA DE MATERIALES PARA LA CONSTRUCCIÓN AULA 05
+Lunes        09:00 - 10:00        5C       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES AULA 12
+Lunes        10:30 - 11:30        5A       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES AULA 10
+Lunes        11:30 - 13:30        5C       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 12
+Martes       08:00 - 10:00        3A       INGENIERÍA DE MATERIALES PARA LA CONSTRUCCIÓN AULA 14
+Martes       10:30 - 12:30        5A       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 10
+Martes       12:30 - 13:30        3D       INGENIERÍA DE MATERIALES PARA LA CONSTRUCCIÓN AULA 03
+Miércoles    09:00 - 10:00        5D       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 11
+Miércoles    10:30 - 11:30        5D       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 11
+Miércoles    11:30 - 13:30        5A       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES AULA 10
+Miércoles    13:30 - 15:30        5D       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES AULA 11
+Miércoles    16:00 - 17:00        9A       OPTATIVA GENERAL IV - Maquinaria y Equipo de Construcción AULA 06
+Jueves       08:00 - 10:00        3C       INGENIERÍA DE MATERIALES PARA LA CONSTRUCCIÓN AULA 05
+Jueves       10:30 - 12:30        5C       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES AULA 12
+Jueves       12:30 - 14:30        3D       INGENIERÍA DE MATERIALES PARA LA CONSTRUCCIÓN AULA 03
+Jueves       14:30 - 15:30        9A       OPTATIVA GENERAL IV - Maquinaria y Equipo de Construcción AULA 06
+Jueves       16:00 - 17:00        9A       OPTATIVA GENERAL IV - Maquinaria y Equipo de Construcción AULA 06
+Viernes      08:00 - 09:00        3A       INGENIERÍA DE MATERIALES PARA LA CONSTRUCCIÓN AULA 14
+Viernes      09:00 - 10:00        5D       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES AULA 11
+Viernes      10:30 - 11:30        5C       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 12
+Viernes      11:30 - 12:30        5A       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 10
+Viernes      12:30 - 13:30        5D       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS AULA 11
+
+============================================================
+
+PROFESOR: VENTURA RAMIREZ JOSE FRANCISCO
+No. TRABAJADOR: 3755
+TOTAL DE BLOQUES DE CLASE: 4
+------------------------------------------------------------
+Lunes        18:00 - 19:00        7B       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 14
+Martes       18:00 - 20:00        9C       OPTATIVA DE ESTRUCTURAS I - Reparación y Reforzamiento de Estructuras 
+Jueves       18:00 - 19:00        9C       OPTATIVA DE ESTRUCTURAS I - Reparación y Reforzamiento de Estructuras 
+Viernes      19:00 - 20:00        7B       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 14
+
+============================================================
+
+PROFESOR: VILLA VELAZQUEZ MENDOZA CARLOS IGNACIO
+No. TRABAJADOR: 6858
+TOTAL DE BLOQUES DE CLASE: 7
+------------------------------------------------------------
+Lunes        10:30 - 11:30        5C       MECÁNICA DE MATERIALES              AULA 12
+Martes       09:00 - 10:00        5A       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 10
+Martes       13:30 - 15:30        5C       MECÁNICA DE MATERIALES              AULA 12
+Miércoles    09:00 - 10:00        5C       MECÁNICA DE MATERIALES              AULA 12
+Viernes      09:00 - 10:00        5A       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 10
+Viernes      10:30 - 11:30        5A       INVESTIGACIÓN APLICADA A LA INGENIERÍA AULA 10
+Viernes      14:30 - 15:30        5C       MECÁNICA DE MATERIALES              AULA 12
+
+============================================================
+

@@ -1,0 +1,193 @@
+LISTAS DE ASISTENCIA - MIÉRCOLES
+Fecha de generación: 02/09/2025
+====================================================================================================
+
+**HORARIO: 07:00 - 08:40**
+
+NUM.     NOMBRE                    GRUPO    MATERIA                                  HORARIO              TEMA            FIRMA      OBSERVACIONES
+TRAB.   
+------------------------------------------------------------------------------------------------------------------------
+3740     TEJEDA CAMPOS GLADYS ILEANA 3A       CÁLCULO VECTORIAL                        07:00 - 08:00                                   
+4569     GONZALEZ ZEPEDA SEBASTIAN 3C       HEURÍSTICA Y BASES DE DATOS              07:00 - 08:00                                   
+5227     GONZALEZ ROMERO YOLANDA   3D       INGLÉS III                               07:00 - 09:00                                   
+9006     RAMIREZ LUNA CONCEPCION   5A       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL  07:00 - 08:00                                   
+9373     PIÑA RIOS JUAN MANUEL     1B       DIBUJO                                   07:00 - 09:00                                   
+
+====================================================================================================
+
+**HORARIO: 07:50 - 10:00**
+
+NUM.     NOMBRE                    GRUPO    MATERIA                                  HORARIO              TEMA            FIRMA      OBSERVACIONES
+TRAB.   
+------------------------------------------------------------------------------------------------------------------------
+2936     DURAN ROLON MANUEL        3B       PROBABILIDAD Y ESTADÍSTICA               08:00 - 09:00                                   
+3740     TEJEDA CAMPOS GLADYS ILEANA 1D       ALGEBRA Y GEOMETRIA ANALITICA            08:00 - 10:00                                   
+4569     GONZALEZ ZEPEDA SEBASTIAN 3A       HEURÍSTICA Y BASES DE DATOS              08:00 - 09:00                                   
+6953     MEJIA RIVERA SANDRA MARCELA 3C       ETICA PROFESIONAL                        08:00 - 10:00                                   
+7576     OLIVO VELAZQUEZ MARCELA XITLALI 1C       COMUNICACIÓN FORMAL                      08:00 - 09:00                                   
+7705     CARDENAS RODRIGUEZ SELENE 5A       ESTRUCTURAS ISOSTÁTICAS                  08:00 - 10:00                                   
+9006     RAMIREZ LUNA CONCEPCION   1A       QUÍMICA PARA INGENIERÍA                  08:00 - 10:00                                   
+2936     DURAN ROLON MANUEL        3E       PROBABILIDAD Y ESTADÍSTICA               09:00 - 10:00                                   
+4404     LOPEZ ROJAS MARIO         1C       FUNDAMENTOS DE ESTADÍSTICA Y PROBABILIDAD 09:00 - 10:00                                   
+501121   ALEJANDREZ PALACIOS JOSE GUADALUPE 3D       ESTADÍSTICA INFERENCIAL                  09:00 - 10:00                                   
+5227     GONZALEZ ROMERO YOLANDA   3B       INGLÉS III                               09:00 - 10:00                                   
+5493     LARIOS RODRIGUEZ ISKRA    3A       INGLÉS III                               09:00 - 10:00                                   
+6858     VILLA VELAZQUEZ MENDOZA CARLOS IGNACIO 5C       MECÁNICA DE MATERIALES                   09:00 - 10:00                                   
+7304     VEGA GOMEZ RAFAEL         5D       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS     09:00 - 10:00                                   
+8314     RIVERA ARIAS JUAN LUIS    1B       APRENDIZAJE Y COMPETENCIA DIGITAL        09:00 - 10:00                                   
+9373     PIÑA RIOS JUAN MANUEL     1E       TÓPICOS SELECTOS DE TOPOGRAFÍA Y GEOMÁTICA 09:00 - 10:00                                   
+
+====================================================================================================
+
+**HORARIO: 09:10 - 12:30**
+
+NUM.     NOMBRE                    GRUPO    MATERIA                                  HORARIO              TEMA            FIRMA      OBSERVACIONES
+TRAB.   
+------------------------------------------------------------------------------------------------------------------------
+2936     DURAN ROLON MANUEL        3E       PROBABILIDAD Y ESTADÍSTICA               10:30 - 11:30                                   
+3740     TEJEDA CAMPOS GLADYS ILEANA 1A       ALGEBRA Y GEOMETRIA ANALITICA            10:30 - 12:30                                   
+3809     SOLANO BARAJAS RAMON      3C       ESTADÍSTICA INFERENCIAL                  10:30 - 12:30                                   
+4176     LOPEZ PEREZ JUAN PABLO    1E       MATEMÁTICAS I                            10:30 - 12:30                                   
+4404     LOPEZ ROJAS MARIO         1D       FISICA GENERAL                           10:30 - 12:30                                   
+501121   ALEJANDREZ PALACIOS JOSE GUADALUPE 3D       ESTADÍSTICA INFERENCIAL                  10:30 - 11:30                                   
+5493     LARIOS RODRIGUEZ ISKRA    3A       INGLÉS III                               10:30 - 11:30                                   
+5593     MARTINEZ DIAZ TERESA EVANGELINA 1B       COMUNICACIÓN FORMAL Y ACTITUD PROFESIONAL 10:30 - 12:30                                   
+7304     VEGA GOMEZ RAFAEL         5D       PLANEACIÓN DE PROYECTOS ESTRATÉGICOS     10:30 - 11:30                                   
+7467     CABRERA SANDOVAL MARIO FILOMENO 5A       HIDRÁULICA DE TUBERÍAS                   10:30 - 11:30                                   
+8090     RAMIREZ LOMELI CESAR IVAN 3B       TOPOGRAFÍA GENERAL II                    10:30 - 12:30                                   
+8355     ROBLES RODRIGUEZ SERGIO ULISES 1C       INGLÉS I                                 10:30 - 12:30                                   
+9006     RAMIREZ LUNA CONCEPCION   5C       GEOLOGÍA APLICADA A LA INGENIERÍA CIVIL  10:30 - 11:30                                   
+501121   ALEJANDREZ PALACIOS JOSE GUADALUPE 5C       HIDRÁULICA DE TUBERÍAS                   11:30 - 12:30                                   
+5337     ORDUÑA BUSTAMANTE AGUSTÍN 5D       ESTRUCTURAS ISOSTÁTICAS                  11:30 - 12:30                                   
+6953     MEJIA RIVERA SANDRA MARCELA 3A       ETICA PROFESIONAL                        11:30 - 12:30                                   
+7304     VEGA GOMEZ RAFAEL         5A       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES 11:30 - 13:30                                   
+7469     SANCHEZ SANCHEZ EVA PAULINA 3D       DINÁMICA DEL CUERPO RÍGIDO               11:30 - 12:30                                   
+8314     RIVERA ARIAS JUAN LUIS    3E       PROGRAMACIÓN DE COMPUTADORAS II          11:30 - 12:30                                   
+
+====================================================================================================
+
+**HORARIO: 12:30 - 15:00**
+
+NUM.     NOMBRE                    GRUPO    MATERIA                                  HORARIO              TEMA            FIRMA      OBSERVACIONES
+TRAB.   
+------------------------------------------------------------------------------------------------------------------------
+2936     DURAN ROLON MANUEL        3B       PROGRAMACIÓN DE COMPUTADORAS II          12:30 - 13:30                                   
+3284     LICEA PANDURO RAMIRO      9A       DISEÑO GEOTÉCNICO DE CIMENTACIONES       12:30 - 13:30                                   
+3652     SANCHEZ VELASCO ROSENDO   7E       OPTATIVA I DE TOPOGRAFÍA - Vías Terrestres 12:30 - 14:30                                   
+3740     TEJEDA CAMPOS GLADYS ILEANA 1C       ALGEBRA Y GEOMETRIA ANALITICA            12:30 - 14:30                                   
+4176     LOPEZ PEREZ JUAN PABLO    3E       MATEMÁTICAS III                          12:30 - 14:30                                   
+4404     LOPEZ ROJAS MARIO         3C       LABORATORIO DE CONCRETOS                 12:30 - 14:30                                   
+4959     PRECIADO DE LA CRUZ CLAUDIA 5E       INGLÉS V                                 12:30 - 14:30                                   
+5337     ORDUÑA BUSTAMANTE AGUSTÍN 5C       ESTRUCTURAS ISOSTÁTICAS                  12:30 - 13:30                                   
+5555     ROEDER CARBO GUILLERMO MARTIN 5D       MECÁNICA DE MATERIALES                   12:30 - 13:30                                   
+6126     QUINTANILLA MONTOYA ANA LUZ 9B       OPTATIVA GENERAL V - Riesgos ambientales 12:30 - 15:30                                   
+6695     MONTAÑO CARDENAS LUIS ENRIQUE 3D       LABORATORIO DE CONCRETOS                 12:30 - 14:30                                   
+6953     MEJIA RIVERA SANDRA MARCELA 1E       COMUNICACIÓN FORMAL Y ACTITUD PROFESIONAL 12:30 - 14:30                                   
+7469     SANCHEZ SANCHEZ EVA PAULINA 3A       DINÁMICA DEL CUERPO RÍGIDO               12:30 - 13:30                                   
+8090     RAMIREZ LOMELI CESAR IVAN 7B       OPTATIVA I DE TOPOGRAFÍA - Top. con equipo de Alta Precisión 12:30 - 14:30                                   
+9006     RAMIREZ LUNA CONCEPCION   1D       QUÍMICA PARA INGENIERÍA                  12:30 - 14:30                                   
+9373     PIÑA RIOS JUAN MANUEL     1A       DIBUJO EN INGENIERÍA                     12:30 - 14:30                                   
+3284     LICEA PANDURO RAMIRO      7A       ESFUERZOS Y DEFORMACIONES EN LOS SUELOS  13:30 - 14:30                                   
+401031   CAMACHO DE LA CRUZ ARLETTE ANDREA 5C       INVESTIGACIÓN APLICADA A LA INGENIERÍA   13:30 - 14:30                                   
+5337     ORDUÑA BUSTAMANTE AGUSTÍN 5A       MECÁNICA DE MATERIALES                   13:30 - 14:30                                   
+7304     VEGA GOMEZ RAFAEL         5D       PROGRAMACIÓN Y SUPERVISIÓN DE OBRAS CIVILES 13:30 - 15:30                                   
+7467     CABRERA SANDOVAL MARIO FILOMENO 9A       OPTATIVA DE ESTRUCTURAS I - Diseño Eólico de Estructuras 13:30 - 15:30                                   
+7705     CARDENAS RODRIGUEZ SELENE 9D       OPTATIVA DE ESTRUCTURAS I - Mecánica Avanzada 13:30 - 15:30                                   
+4176     LOPEZ PEREZ JUAN PABLO    7E       OPTATIVA II DE GEOMÁTICA - Aplicaciones de teledetección 14:30 - 15:30                                   
+5308     URIBE RAMOS JUAN MANUEL   7B       OPTATIVA II DE GEOMÁTICA - Planificación y Uso de Suelo 14:30 - 15:30                                   
+6695     MONTAÑO CARDENAS LUIS ENRIQUE 7D       INGENIERÍA DE TRANSPORTES                14:30 - 15:30                                   
+8031     LOPEZ DE LA CRUZ JESUS    7C       HIDROLOGÍA SUPERFICIAL                   14:30 - 15:30                                   
+8032     SANCHEZ ALEJANDRE ALFREDO 7A       DISEÑO DE ELEMENTOS DE ACERO             14:30 - 15:30                                   
+8090     RAMIREZ LOMELI CESAR IVAN 5B       TOPOGRAFÍA URBANA Y CATASTRAL            14:30 - 15:30                                   
+9373     PIÑA RIOS JUAN MANUEL     5E       TOPOGRAFÍA URBANA Y CATASTRAL            14:30 - 15:30                                   
+
+====================================================================================================
+
+**HORARIO: 14:10 - 17:10**
+
+NUM.     NOMBRE                    GRUPO    MATERIA                                  HORARIO              TEMA            FIRMA      OBSERVACIONES
+TRAB.   
+------------------------------------------------------------------------------------------------------------------------
+3661     RODRIGUEZ CAMPOS MARIA MAGDALENA 5B       INGLÉS V                                 16:00 - 17:00                                   
+3857     SANTIAGO JIMENEZ HYDYN    5E       GEODESIA ESPACIAL                        16:00 - 17:00                                   
+4176     LOPEZ PEREZ JUAN PABLO    7E       OPTATIVA II DE GEOMÁTICA - Aplicaciones de teledetección 16:00 - 17:00                                   
+501122   GONZALEZ ROBLES MAURA     7A       HIDROLOGÍA SUPERFICIAL                   16:00 - 18:00                                   
+5308     URIBE RAMOS JUAN MANUEL   7B       OPTATIVA II DE GEOMÁTICA - Planificación y Uso de Suelo 16:00 - 17:00                                   
+6695     MONTAÑO CARDENAS LUIS ENRIQUE 7D       INGENIERÍA DE TRANSPORTES                16:00 - 17:00                                   
+7304     VEGA GOMEZ RAFAEL         9A       OPTATIVA GENERAL IV - Maquinaria y Equipo de Construcción 16:00 - 17:00                                   
+7468     PRECIADO CASTILLO MARCO ANTONIO 9D       OPTATIVA GENERAL IV - Conservación y mantenimiento de obras 16:00 - 17:00                                   
+7912     VAZQUEZ VERJAN EDGAR RICARDO 9C       OPTATIVA GENERAL IV - Edificación Urbana 16:00 - 17:00                                   
+8032     SANCHEZ ALEJANDRE ALFREDO 7C       DISEÑO DE ELEMENTOS DE ACERO             16:00 - 18:00                                   
+
+====================================================================================================
+
+**HORARIO: 15:30 - 20:00**
+
+NUM.     NOMBRE                    GRUPO    MATERIA                                  HORARIO              TEMA            FIRMA      OBSERVACIONES
+TRAB.   
+------------------------------------------------------------------------------------------------------------------------
+3283     GUZMAN NAVA FRANCISCO JAVIER 7D       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE 17:00 - 18:00                                   
+3284     LICEA PANDURO RAMIRO      9D       DISEÑO GEOTÉCNICO DE CIMENTACIONES       17:00 - 19:00                                   
+5308     URIBE RAMOS JUAN MANUEL   5B       HIDROLOGÍA DE CUENCAS                    17:00 - 19:00                                   
+5593     MARTINEZ DIAZ TERESA EVANGELINA 7E       INVESTIGACIÓN APLICADA A LA INGENIERÍA   17:00 - 18:00                                   
+6068     BARRON QUINTANA JULIAN    5E       FOTOGRAMETRÍA DIGITAL                    17:00 - 19:00                                   
+6695     MONTAÑO CARDENAS LUIS ENRIQUE 9C       DISEÑO GEOTÉCNICO DE CIMENTACIONES       17:00 - 19:00                                   
+7468     PRECIADO CASTILLO MARCO ANTONIO 7B       PRESUPUESTACIÓN                          17:00 - 18:00                                   
+7912     VAZQUEZ VERJAN EDGAR RICARDO 9B       OPTATIVA GENERAL IV - Administración en Ingeniería 17:00 - 19:00                                   
+3283     GUZMAN NAVA FRANCISCO JAVIER 7A       SISTEMAS DE ABASTECIMIENTO DE AGUA POTABLE 18:00 - 20:00                                   
+7706     ROJAS MIRANDA JULIO CESAR 7C       INGENIERÍA DE TRANSPORTES                18:00 - 20:00                                   
+8032     SANCHEZ ALEJANDRE ALFREDO 7D       DISEÑO DE ELEMENTOS DE ACERO             18:00 - 20:00                                   
+6068     BARRON QUINTANA JULIAN    5B       FOTOGRAMETRÍA DIGITAL                    19:00 - 20:00                                   
+
+====================================================================================================
+
+
+================================================================================
+FIRMAS
+================================================================================
+
+___________________________________    ___________________________________
+PROFESOR                           PROFESOR
+-----------------------------------    -----------------------------------
+2936 - DURAN ROLON MANUEL              6068 - BARRON QUINTANA JULIAN      
+___________________________________    ___________________________________
+3283 - GUZMAN NAVA FRANCISCO JAVI      6126 - QUINTANILLA MONTOYA ANA LU  
+___________________________________    ___________________________________
+3284 - LICEA PANDURO RAMIRO            6695 - MONTAÑO CARDENAS LUIS ENRI  
+___________________________________    ___________________________________
+3652 - SANCHEZ VELASCO ROSENDO         6858 - VILLA VELAZQUEZ MENDOZA CA  
+___________________________________    ___________________________________
+3661 - RODRIGUEZ CAMPOS MARIA MAG      6953 - MEJIA RIVERA SANDRA MARCEL  
+___________________________________    ___________________________________
+3740 - TEJEDA CAMPOS GLADYS ILEAN      7304 - VEGA GOMEZ RAFAEL           
+___________________________________    ___________________________________
+3809 - SOLANO BARAJAS RAMON            7467 - CABRERA SANDOVAL MARIO FIL  
+___________________________________    ___________________________________
+3857 - SANTIAGO JIMENEZ HYDYN          7468 - PRECIADO CASTILLO MARCO AN  
+___________________________________    ___________________________________
+401031 - CAMACHO DE LA CRUZ ARLET      7469 - SANCHEZ SANCHEZ EVA PAULIN  
+___________________________________    ___________________________________
+4176 - LOPEZ PEREZ JUAN PABLO          7576 - OLIVO VELAZQUEZ MARCELA XI  
+___________________________________    ___________________________________
+4404 - LOPEZ ROJAS MARIO               7705 - CARDENAS RODRIGUEZ SELENE   
+___________________________________    ___________________________________
+4569 - GONZALEZ ZEPEDA SEBASTIAN       7706 - ROJAS MIRANDA JULIO CESAR   
+___________________________________    ___________________________________
+4959 - PRECIADO DE LA CRUZ CLAUDI      7912 - VAZQUEZ VERJAN EDGAR RICAR  
+___________________________________    ___________________________________
+501121 - ALEJANDREZ PALACIOS JOSE      8031 - LOPEZ DE LA CRUZ JESUS      
+___________________________________    ___________________________________
+501122 - GONZALEZ ROBLES MAURA         8032 - SANCHEZ ALEJANDRE ALFREDO   
+___________________________________    ___________________________________
+5227 - GONZALEZ ROMERO YOLANDA         8090 - RAMIREZ LOMELI CESAR IVAN   
+___________________________________    ___________________________________
+5308 - URIBE RAMOS JUAN MANUEL         8314 - RIVERA ARIAS JUAN LUIS      
+___________________________________    ___________________________________
+5337 - ORDUÑA BUSTAMANTE AGUSTÍN       8355 - ROBLES RODRIGUEZ SERGIO UL  
+___________________________________    ___________________________________
+5493 - LARIOS RODRIGUEZ ISKRA          9006 - RAMIREZ LUNA CONCEPCION     
+___________________________________    ___________________________________
+5555 - ROEDER CARBO GUILLERMO MAR      9373 - PIÑA RIOS JUAN MANUEL       
+___________________________________    ___________________________________
+5593 - MARTINEZ DIAZ TERESA EVANG                                         
+___________________________________    ___________________________________

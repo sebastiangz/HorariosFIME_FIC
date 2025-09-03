@@ -1,0 +1,27 @@
+ESTADÍSTICAS DEL HORARIO ESCOLAR
+Generado: 02/09/2025 12:24
+==================================================
+
+RESUMEN GENERAL:
+- Total de bloques de clase: 461
+- Profesores únicos: 49
+- Materias diferentes: 85
+- Grupos únicos: 24
+- Horarios diferentes: 25
+
+NOTA: Los bloques de clase pueden incluir múltiples horas
+consecutivas del mismo profesor con el mismo grupo.
+
+CLASES POR DÍA:
+- Lunes: 93 bloques de clase
+- Miércoles: 91 bloques de clase
+- Jueves: 101 bloques de clase
+- Viernes: 83 bloques de clase
+- Martes: 93 bloques de clase
+
+PROFESORES POR DÍA:
+- Lunes: 43 profesores
+- Miércoles: 41 profesores
+- Jueves: 40 profesores
+- Viernes: 34 profesores
+- Martes: 37 profesores
