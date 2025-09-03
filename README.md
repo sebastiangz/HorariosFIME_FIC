@@ -210,4 +210,4 @@ Para soporte técnico o consultas sobre el sistema, contacte al desarrollador a 
 
 ---
 
-**Nota**: Este README proporciona información completa para el uso del sistema. Para modificaciones o personalizaciones adicionales, consulte con el desarrollador.
+**Nota**: Este README proporciona información para el uso del sistema. Para modificaciones o personalizaciones adicionales, consulte con el desarrollador.
